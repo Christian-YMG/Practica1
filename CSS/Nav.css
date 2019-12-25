@@ -78,3 +78,10 @@ a:hover{
     border: 2px solid black;
 }
 
+.content-figure{
+    border: 5px solid black;
+    background-image: url(../IMG/icon-Panterino.png);
+    background-clip: content-box;
+    background-origin: padding-box;
+    padding: 50px;
+}
